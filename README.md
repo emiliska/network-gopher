@@ -1,5 +1,5 @@
 # network-gopher
-    Convert from decimal to binary in go.
+Convert from decimal to binary in go.
 
 ## How to use network-gopher
 
