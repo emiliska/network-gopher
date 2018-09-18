@@ -7,6 +7,8 @@ Convert from decimal to binary in go.
 2. Run the following command:```go run main.go```
 
 ## Future Content
+- convert program to a command-line tool
+
 - Decimal to hexadecimal conversion
 - Hexadecimal to binary conversion
 - Binary to decimal conversion
